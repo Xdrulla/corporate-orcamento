@@ -1,0 +1,10 @@
+{
+  "common_welcome": "Bem-vindo a tela inicial",
+  "common_review": "Olá {userName}, seja bem vindo.",
+  "common_month_resume": "Resumo Mensal",
+  "common_average": "Média dos Últimos 3 Meses",
+  "common_current_balance": "Saldo Atual",
+  "common_economic_goals": "Metas de Economia",
+  "common_latest_releases": "Últimos Lançamentos",
+  "common_category": "Categoria"
+}

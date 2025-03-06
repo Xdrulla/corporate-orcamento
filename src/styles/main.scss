@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #676767;
+  background-color: #1e1e1e;
+}
+
+.ant-layout {
+  background: #1e1e1e;
+}
+
+.bg-card {
+  background-color: #171717;
+}
+
+.text-premium-yellow {
+  color: #f7b91c;
+}
+
+.icon-background {
+  background: #2d2d2d;
+}
+
+.sidebar-item-selected {
+  color: white;
+  border-right: 2px solid white;
+}
+
+.sidebar-item {
+  border-right: 2px solid transparent;
+}
+
+.sidebar-item:hover {
+  color: #a1a0a0;
+}
+
+.antv-legend-item .antv-legend-item-name {
+  color: #FFFFFF !important;
+}
+
+.ant-card-head-title {
+  color: #FFFFFF;
+}
+
+.ant-progress .ant-progress-text {
+  color: #FFFFFF;
+}
+
+.smooth-card {
+  border: none;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.9);
+  background-color: #1f1f1f;
+  border-radius: 8px;
+}
+
+.card-header-divider {
+  border-bottom: 1px solid #4a4a4a;
+}
